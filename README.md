@@ -55,5 +55,4 @@ Contributions to the HSK Flashcard App are welcome! If you have suggestions for 
 ## Acknowledgments
 
 - Special thanks to the Kivy and KivyMD communities for their invaluable resources and support.
-- Thank you to all the contributors who have helped improve this app.
 
